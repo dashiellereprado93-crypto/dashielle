@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⋆˙⟡ Unang Paksa</title>
+    <link rel="stylesheet" href="ap_portfolio_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1 style="color:#3d285d;font-weight:bold;text-align:center;"> ⋆˚࿔ Araling Panlipunan 𝜗𝜚˚⋆ </h1>
+	
+	<hr>
+	
+	<div class="paksaheading">⋆˙⟡ Unang Paksa: Pambansang Kaunlaran ⋆.𐙚 ̊</div>
+	
+	<hr>
+	
+	<div class="card-wrapper">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Pambansang Kaunlaran</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    Isang estado ng bansa kung saan tinatamasa ng mga tao mula sa
+                    pinakamababang uri ng mamamayan ang nakakamanghang pagbabago
+                    sa ekonomiya at pamumuhay
+                </p>
+            </div>
+        </div>
+    </div>
+	</div>
+
+	<br>
+
+	<div class="paksaheading">⋆˙⟡ Mga Konsepto ng Pambansang Kaunlaran ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>Pagbabago</h3>
+			<p>- Paraan upang maging iba o naiiba</p>
+			<p>- Proseso ng pag-iiba o pagkakaroon ng kaibahan sa lipunan at ekonomiya</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Pag-unlad</h3>
+			<p>- Pagbabago mula sa mababa tungo sa mataas na antas ng pamumuhay</p>
+			<p>- Pag-angat, pagsulong, o paglago sa pangkalahatang aspeto ng pamumuhay</p>
+			<p>- Isang progresibo at aktibong proseso at ang pagsulong ay produkto nito (FAJARDO)</p>
+			<p>- Ang kaunlaran ay matatamo lamang kung mapauunlad ang yaman ng buhay ng mga tao kaysa sa yaman ng ekonomiya nito (AMARTYA SEN)</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Pagsulong</h3>
+			<p>Pag-usad tungo sa iyong layunin o goal</p>
+			<p>Pagpapaunlad ng kakayahan, kaalaman, at abilidad upang makasabay sa agos ng buhay</p>
+			</div>
+		</div>
+			<div class="block">
+			<div class="block_text">
+			<h3>Ebolusyon</h3>
+			<p>Pagbabago sa mga katangian sa loob ng mahabang panahon</p> 
+			<p>Anuman ang unang dumating ay mas mabuti sa sinundang panahon</p> 
+			</div>
+			</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Dalawang Konsepto ng Pag-Unlad ⋆.𐙚 ̊</div>
+	
+	<div class="envelope-container">
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Tradisyunal - Pagtamo ng patuloy na pagtaas ng income per capita.</p>
+		</div>
+	</div>
+	
+	<br>
+	
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Makabago - Dapat na kumakatawan sa malawakang pagbabago sa buong sistemang panlipunan.</p>
+		</div>
+	</div>
+	</div>
+	
+	<br>
+	
+	
+	<div class="paksaheading">⋆˙⟡ Mga Salik na Maaaring Makatulong sa Pagsulong ng Ekonomiya ⋆.𐙚 ̊</div>
+	
+	<div class="envelope-container">
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p style="font-size:15px;">Likas na yaman, Yamang-tao, Kapital, Teknolohiya, at Inobasyon</p>
+		</div>
+	</div>
+	</div>
+	<br>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Palatandaan ng Pag-Unlad ⋆.𐙚 ̊</div>
+	
+	<div class="book-container">
+	<div class="book">
+		<div class="cover"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="last-page">
+			<div class="last-page-text">
+			<p>1. Makatwiran at dinamikong kaayusan ng panlipunan</p>
+			<p>2. Kasaganaan at kasarinlan</p>
+			<p>3. Kalayaan sa kahirapan, hanapbuhay para sa lahat, umaangat na istandard ng pamumuhay, at mainam na uri ng buhay para sa lahat</p>
+			<p>4. Sapat na mga lingkurang panlipunan</p>
+			<p>5. Katarungang panlipunan</p>
+			</div>
+		</div>
+		<div class="back-cover"></div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Sukatan ng Kaunlaran ng Bansa ayon sa United Nations ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<p>Maliban sa paggamit ng GDP at GNP, ginagamit ang Human Development Index (HDI) bilang isa sa mga panukat sa antas ng pag-unlad ng isang bansa.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Human Development Index (HDI)</h3>
+			<p>Pangkalahatang sukat ng kakayahan ng isang bansa na matugunan ang mahahalagang aspekto ng kaunlarang pantao.</p>
+			<p>Kabilang dito ang kalusugan, edukasyon, at antas ng pamumuhay.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Antas ng Kaunlaran ng Bansa ⋆.𐙚 ̊</div>
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Maunlad na Bansa o Developed Economies</h3>
+						<p>Mga bansang may mataas na GDP, income per capita, at mataas na HDI.</p>
+					</div>
+				</div>
+				<div class="card-back">
+					<h3>Developed Economies</h3>
+					<img src="developed_economy.png" alt="Ekonomiya ng Estados Unidos">
+					<p style="font-size:10px;text-align:center;">Sanggunian: Mortgage Professional America</p>
+					<p>Ang ekonomiya ng Estados Unidos ay isang halimbawa ng maunlad na bansa. Ibang mga halimbawa ay ang ekonomiya ng Kanada, Hapon, Alemanya, at France.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Umuunlad na Bansa o Developing Economies</h3>
+						<p>Mga bansang may mga industriyang kasalukuyang pinauunlad ngunit wala pang mataas na antas ng industriyalisasyon</p>
+						<p>Hindi pantay ang GDP at HDI</p>
+					</div>
+				</div>
+				<div class="card-back">
+					<h3>Developing Economies</h3>
+					<img src="developing_economy.jpg" alt="Ekonomiya ng Pilipinas">
+					<p style="font-size:10px;text-align:center;">Sanggunian: Philstar.com</p>
+					<p>Ang ekonomiya ng Pilipinas ay isang halimbawa ng umuunlad na bansa. Ibang mga halimbawa ay ang ekonomiya ng Indiya, Tsina, Brasil, Meksiko, at Biyetnam.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Papaunlad na Bansa o Underdeveloped Economies</h3>
+						<p>Mga bansang kung ihahambing sa iba ay kulang sa industriyalisasyon</p>
+						<p>Mababang antas ng agrikultura at mababang GDP, income per capita, at HDI</p>
+					</div>
+				</div>
+				<div class="card-back">
+					<h3>Underdeveloped Economies</h3>
+					<img src="underdeveloped_economy.jpg" alt="Ekonomiya ng Tuvalu">
+					<p style="font-size:10px;text-align:center;">Sanggunian: National Indigenous Times</p>
+					<p>Ang ekonomiya ng Tuvalu ay isang halimbawa ng papaunlad na bansa. Ibang mga halimbawa ay ang ekonomiya ng Myanmar, Laos, Uganda, Niger, at DR Congo.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Tungkulin Para sa Pag-Unlad ng Bansa ⋆.𐙚 ̊</div>
+	<div class="book-container">
+	<div class="book">
+		<div class="cover"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="last-page">
+			<div class="last-page-text-2">
+			<p>1. Suportahan ang ating pamahalaan.</p>
+			<p>2. Sundin at igalang ang batas.</p>
+			<p>3. Alagaan ang ating kapaligiran.</p>
+			<p>4. Tumulong sa pagpuksa sa korapsyon at katiwalian sa pamahalaan.</p>
+			<p>5. Maging produktibo.</p>
+			<p>6. Tangkilikin ang mga produktong Pilipino.</p>
+			<p>7. Magtipid ng enerhiya.</p>
+			<p>8. Makilahok sa mga gawaing pansibiko.</p>
+			</div>
+		</div>
+		<div class="back-cover"></div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Gampanin ng Mamamayan sa Pag-Unlad ng Bansa ⋆.𐙚 ̊</div>
+	
+	<div class="door-element">
+	<div class="door-wrapper">
+		<img src="gampanin.png">
+		<div id="left-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="left-knob" class="knob"></div>
+		</div>
+		<div id="right-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="right-knob" class="knob"></div>
+		</div>
+	</div>
+	</div>
+	
+	<hr>
+	
+	<div class="paksaheading"><a href="AP.html" target="_blank">⋆˙⟡ Click me to return to the main page! ⋆.𐙚 ̊</div>
+	
+	<hr>
+  
+</body>
+</html>

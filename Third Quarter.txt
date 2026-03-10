@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>⋆˙⟡ 3rd Quarter</title>
+	<link rel="stylesheet" href="ap_main_style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+	<div class="particles"></div>
+
+	<h1> ⋆˚࿔ 3rd Quarter 𝜗𝜚˚⋆ </h1>
+
+	<hr>
+
+	<br>
+
+	<div class="paksaheading">⋆˙⟡ Yunit IV: Pambansang Kaunlaran ⋆.𐙚 ̊</div>
+
+	<br>
+
+	<hr>
+
+<div class="paksa_block">
+
+<div class="block">
+<a href="Unang Paksa.html" target="_blank">
+<div class="block_text">
+<h3>Unang Paksa</h3>
+</div>
+</a>
+</div>
+
+<div class="block">
+<a href="Ikalawang Paksa.html" target="_blank">
+<div class="block_text">
+<h3>Ikalawang Paksa</h3>
+</div>
+</a>
+</div>
+
+<div class="block">
+<a href="Ikatlong Paksa.html" target="_blank">
+<div class="block_text">
+<h3>Ikatlong Paksa</h3>
+</div>
+</a>
+</div>
+
+<div class="block">
+<a href="Ikaapat na Paksa.html" target="_blank">
+<div class="block_text">
+<h3>Ikaapat na Paksa</h3>
+</div>
+</a>
+</div>
+
+<div class="block">
+<a href="Ikalimang Paksa.html" target="_blank">
+<div class="block_text">
+<h3>Ikalimang Paksa</h3>
+</div>
+</a>
+</div>
+
+<div class="block">
+<a href="Ikaanim na Paksa.html" target="_blank">
+<div class="block_text">
+<h3>Ikaanim na Paksa</h3>
+</div>
+</a>
+</div>
+
+</div>
+
+<script src="ap_script.js"></script>
+
+</body>
+</html>
