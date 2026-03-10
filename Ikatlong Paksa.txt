@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⋆˙⟡ Ikalawang Paksa</title>
+    <link rel="stylesheet" href="ap_portfolio_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1 style="color:#3d285d;font-weight:bold;text-align:center;"> ⋆˚࿔ Araling Panlipunan 𝜗𝜚˚⋆ </h1>
+	
+	<hr>
+	
+	<div class="paksaheading">⋆˙⟡ Ikatlong Paksa: Industriya ⋆.𐙚 ̊</div>
+	
+	<hr>
+	
+	<div class="card-wrapper">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Industriya</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    Agham at sining na may kinalaman sa pagpaparami ng mga hayop at mga tanim o halaman.
+					Ito ay may kaugnayan din sa lahat ng gawain na sangkot ang mga hayop at halaman.
+					Ang ager ay nangangahulugang lupa at ang cultura naman ay paglilinang.
+                </p>
+            </div>
+        </div>
+    </div>
+	</div>
+
+	<br>
+
+	<div class="paksaheading">⋆˙⟡ Mga Gawain sa Sektor ng Agrikultura ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>1. Pagsasaka</h3>
+			<h3>2. Pangingisda</h3>
+			<h3>3. Paghahayupan</h3>
+			<h3>4. Paggugubat/Pagtotroso</h3>
+			</div>
+		</div>
+	</div>
+	
+	<div class="door-element">
+	<div class="door-wrapper">
+		<img src="gawain.png">
+		<div id="left-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="left-knob" class="knob"></div>
+		</div>
+		<div id="right-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="right-knob" class="knob"></div>
+		</div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Kahalagahan ng Agrikultura ⋆.𐙚 ̊</div>
+	
+	<div class="envelope-container">
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Pinagmumulan ng pagkain, Pinagkukunan ng hilaw na materyales upang makabuo ng produkto</p>
+		</div>
+	</div>
+	
+	<br>
+	
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Nagkakaloob ng trabaho sa Pilipino, Nagpapasok ng dolyar sa bansa, Pinagkukunan ng manggagawa</p>
+		</div>
+	</div>
+	</div>
+	
+	<br>
+	
+	<div class="paksaheading">⋆˙⟡ Suliranin ng Agrikultura ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>Pagsasaka</h3>
+			<p>- Pagliit ng lupang sakahan</p>
+			<p>- Kakulangan sa pasilidad at impraestruktura</p>
+			<p>- Hindi sapat na suporta mula sa ibang sektor</p>
+			<p>- Prayoridad sa industriya at pagdagsa ng imported na produkto</p>
+			<p>- Climate Change</p>
+			<p>- Hindi sapat na paggamit ng makabagong teknolohiya</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Paghahayupan</h3>
+			<p>- Pagkakaroon ng mga peste sa alagang hayop tulad ng baboy at manok</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Pangingisda</h3>
+			<p>- Mapanirang operasyon ng malalaking komersiyal na mangingisda</p>
+			<p>- Epekto ng polusyon sa pangisdaan</p>
+			<p>- Lumalaking populasyon ng bansa</p>
+			<p>- Kahirapan sa hanay ng mga mangingisda</p>
+			</div>
+		</div>
+			<div class="block">
+			<div class="block_text">
+			<h3>Paggugubat</h3>
+			<p>- Mabilis na pagkaubos ng mga likas na yaman</p>
+			</div>
+			</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Patakaran at Programa Hinggil sa Pagpapaunlad sa Sektor ng Agrikultura ⋆.𐙚 ̊</div>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Panahon na Hindi Pa Nasasakop ang Pilipinas</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="precolonial_era.jpg" alt="Pre-Colonial Era ng Agrikultura">
+					<p style="font-size:10px;text-align:center;">Sanggunian: christinejoytanducom.wordpress.com</p>
+					<p>Noong unang panahon, nagmamay-ari ang mga Pilipino ng lupa sa pamamagitan ng pagiging unang nagtayo ng bahay doon. Walang pormal na titulo noon, kaya't ang usapan ang siyang batayan ng pagmamay-ari.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Panahon ng Kastila</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="spanish_era.jpg" alt="Spanish Colonial Era ng Agrikultura">
+					<p style="font-size:10px;text-align:center;">Sanggunian: ThoughtCo.com</p>
+					<p>Mayroong Encomienda System. Ang Encomienda ay lupang gantimpala sa matapat na naglilingkod sa hari ng Espanya at mga taong tumulong sa pananakop sa Pilipinas.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Panahon ng Amerikano</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<p>Sa panahon ng Amerikano, binili ang 160,000 ektarya ng lupa para sa mga magsasaka. Ipinatupad ang:</p>
+					<p>Land Registration Act ng 1902: Nagbigay-daan sa pagkaroon ng titulo ng lupa (sistemang Torrens)</p>
+					<p>Public Land Act ng 1902: Ipinamahagi ang mga lupaing pampubliko sa mga pamilyang nagbubungkal ng lupa.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Panahon ng Kasarinlan (Mga Batas Republika)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<p>Batas Republika Blg. 1160: Nagtatag sa National Resettlement and Rehabilitation Administration (NARRA).</p>
+					<p>Batas Republika Blg. 1190 ng 1954: Bilang proteksyon laban sa mapang-abuso na may-ari ng lupa osa mga manggagawa. Ito ay laban sa mga Absentee Landlord.</p>
+					<p>Ang Batas Republika Blg. 6657: o "Comprehensive Agrarian Reform Law (CARL)" ay inaprubahan noong 1988. Saklaw nito ang lahat ng pampubliko at pribadong lupang agrikultural sa ilalim ng Comprehensive Agrarian Reform Program (CARP), na ipinamamahagi sa mga walang lupang magsasaka. Bagamat dapat sana'y natapos sa loob ng 10 taon, ipinapatupad pa rin ang batas hanggang ngayon.</p>
+
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Panahon ng Kasarinlan (Mga Atas ng Pangulo)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<p>Atas ng Pangulo Blg. 2 ng 1972: Isailalim sa reporma sa lupa ang buong Pilipinas noong panahon ni Pangulong Marcos.</p>
+					<p>Atas ng Pangulo Blg. 27: Bibilhin ng pamahalaan ang mga lupang sakahan na taniman ng palay/mais na lampas sa 7 ektaryang limitasyon at ipamamahagi ito sa mga magsasakang walang lupa.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Panahon ng Kasarinlan (Mga Code)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="alrc.jpg" alt="paglalagda ni Pangulong Macapagal ang ALRC ng 1963">
+					<p style="font-size:10px;text-align:center;">Sanggunian: newmandala.org</p>
+					<p>Agricultural Land Reform Code of 1963: Nagpalaya sa mabigat na trabaho ng magsasaka mula sa kanilang pagkaalipin sa utang at kahirapan. Nilagdaan ni Diosdado Macapagal noong Agosto 8, 1963.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Naisakatuparan Upang Maiangat ang Kalagayang Pangkabuhayan ng mga Magsasaka (CARP, 2003) ⋆.𐙚 ̊</div>
+	<div class="door-element">
+	<div class="door-wrapper">
+		<img src="naisakatuparan.png">
+		<div id="left-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="left-knob" class="knob"></div>
+		</div>
+		<div id="right-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="right-knob" class="knob"></div>
+		</div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Hindi sakop ng CARP (Batas Republika Blg. 6657 ng 1988) ang: ⋆.𐙚 ̊</div>
+	<div class="book-container">
+	<div class="book">
+		<div class="cover"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="last-page">
+			<div class="last-page-text-2">
+			<p>1. Liwasan at parke</p>
+			<p>2. Mga gubat at reforestation area</p>
+			<p>3. Mga palaisdaan</p>
+			<p>4. Tanggulang pambansa</p>
+			<p>5. Paaralan</p>
+			<p>6. Simbahan</p>
+			<p>7. Sementeryo</p>
+			<p>8. Templyo</p>
+			<p>9. Watershed, atbp.</p>
+			</div>
+		</div>
+		<div class="back-cover"></div>
+	</div>
+	</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>Pangingisda</h3>
+			<p>- Pagtatayo ng mga daungan</p>
+			<p>- Philippine Fisheries Code of 1998: Paglilimita ng pamahalaan at naglalayon ng wastong paggamit sa yamang pangisdaan.</p>
+			<p>- Fishery Research: Isang programa ng pamahalaan na isinasagawa upang masiguro ang pagpaparami at pagpapayaman sa mga yamang-tubig.</p>
+			</div>
+		</div>
+	</div>
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>Pagtotroso</h3>
+			<p>Community Livelihood Assistance Program (CLASP): Paglilipat ng teknolohiya/pagtuturo sa mga mamamayan ng wastong paglinang sa mga likas na yaman.</p>
+			<p>National Integrated Protected Areas System (NIPAS): Maingatan at protektahan ang kagubatan.</p>
+			<p>Sustainable Forest Management Strategy: Upang matakdaan ang permanente at sukat ng kagubatan.</p>
+
+			</div>
+		</div>
+	</div>
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>Landbank of the Philippines</h3>
+			<p>- Upang magkaroon ng kaagapay ang mga magsasaka sa pagpapaunlad ng kanilang kabuhayan.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Sangay ng Pamahalaan na Tumutulong sa Sektor ng Agrikultura ⋆.𐙚 ̊</div>
+	
+	<div class="door-element">
+	<div class="door-wrapper">
+		<img src="sangay.png">
+		<div id="left-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="left-knob" class="knob"></div>
+		</div>
+		<div id="right-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="right-knob" class="knob"></div>
+		</div>
+	</div>
+	</div>
+	
+	<hr>
+	<div class="paksaheading">⋆˙⟡ Click me~ ⋆.𐙚 ̊</div>
+	
+	<hr>
+  
+</body>
+</html>

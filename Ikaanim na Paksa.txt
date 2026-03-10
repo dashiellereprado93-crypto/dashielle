@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⋆˙⟡ Ikalimang na Paksa</title>
+    <link rel="stylesheet" href="ap_portfolio_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1 style="color:#3d285d;font-weight:bold;text-align:center;"> ⋆˚࿔ Araling Panlipunan 𝜗𝜚˚⋆ </h1>
+	
+	<hr>
+	
+	<div class="paksaheading">⋆˙⟡ Ikalimang na Paksa: Impormal na Sektor ⋆.𐙚 ̊</div>
+	
+	<hr>
+	
+	<div class="card-wrapper">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Impormal na Sektor</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                   Ang impormal na sektor ay isang bahagi ng ekonomiya na walang pormal na dokumentasyon, kaya't ang kita nito ay hindi kasama sa GDP. 
+				   Ito ay nagbibigay-daan sa mga mamamayan na magkaroon ng kabuhayan at lumikha ng mga produkto at serbisyo. 
+				   Kilala rin ito bilang Underground Economy.
+                </p>
+            </div>
+        </div>
+    </div>
+	</div>
+
+	<br>
+
+	<div class="paksaheading">⋆˙⟡ HALIMBAWA NG MGA TAONG KABILANG SA SEKTOR NA ITO ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>1. Nagtitinda sa kalsada</h3>
+			</div>
+		</div>
+	</div>
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>2. Pedicab driver</h3>
+			</div>
+		</div>
+	</div>
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>3. Karpintero</h3>
+			</div>
+		</div>
+	</div>
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>4. Hindi rehistradong pampublikong sasakyan</h3>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Katangian ng Impormal na Sektor ⋆.𐙚 ̊</div>
+	<div class="envelope-container">
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Hindi rehistrado sa gobyerno, Hindi nagbabayad ng buwis, Walang legal na balangkas</p>
+		</div>
+	</div>
+	</div>
+	
+	<br>
+	
+	<div class="paksaheading">⋆˙⟡ Iba't Ibang Anyo ng Impormal na Sektor ⋆.𐙚 ̊</div>
+	<div class="book-container">
+	<div class="book">
+		<div class="cover"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="last-page">
+			<div class="last-page-text-2">
+			<p>1. Mga gawaing maaaring isakatuparan lamang sa loob ng tahanan.</p>
+			<p>2. Mga gawaing pansibiko, pagkakawanggawa, at panrelihiyon.</p>
+			<p>3. Mga sari-sari stores, pagtitinda sa labas ng bahay o sidewalk, paglalako ng kalakal o serbisyo.</p>
+			<p>4. Ilegal na gawain tulad ng pagnanakaw, pagbebenta ng ilegal na gamot, piracy, at prostitusyon</p>
+			</div>
+		</div>
+		<div class="back-cover"></div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Kahalagahan ng Impormal na Sektor ⋆.𐙚 ̊</div>
+	
+	<div class="door-element">
+	<div class="door-wrapper">
+		<img src="kahalagahan.png">
+		<div id="left-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="left-knob" class="knob"></div>
+		</div>
+		<div id="right-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="right-knob" class="knob"></div>
+		</div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Dahilan kung Bakit Pumapasok sa Impormal na Sektor ang Mga Mamamayan ⋆.𐙚 ̊</div>
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<p>1. Makaligtas sa pagbabayad ng buwis sa pamahalaan.</p>
+			<p>2. Makaiwas sa masyadong mahaba at masalimuot na proseso ng pakikipagtransaksyon sa pamahalaan (bureaucratic red tape).</p>
+            <p>3. Kawalan ng regulasyon mula sa pamahalaan na kung saan ang mga batas at programa ay hindi naitutupad nang maayos.</p>
+            <p>4. Makapaghanapbuhay nang hindi nangangailangan  ng malaking kapital o puhunan.</p>
+			<p>5. Malabanan ang matinding kahirapan.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Epekto sa Ekonomiya ng Impormal na Sektor ⋆.𐙚 ̊</div>
+	
+	<div class="envelope-container">
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Pagbaba ng halaga ng nalilikom na buwis</p>
+		</div>
+	</div>
+	
+	<br>
+	
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Banta sa kapakanan ng mga mamimili</p>
+		</div>
+	</div>
+	
+	<br>
+	
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Paglaganap ng mga ilegal na gawain</p>
+		</div>
+	</div>
+	</div>
+	
+	<br>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Batas, Programa, at Patakarang Pang-Ekonomiya sa Impormal na Sektor ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>Social Reform and Poverty Alleviation Act of 1997 (R.A 8425)</h3>
+			<p>I-ahon sa kahirapan ang mga Pilipinong kabilang sa impormal na sektor.</p>
+			<p>Upang maisakatuparan ang  mga  probisyon  ng  batas  na  ito  ay  itinatag  ang  National  Anti-Poverty Commission.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Magna Carta of Women (R.A. 9710)</h3>
+			<p>Inaalis ang lahat ng uri ng diskriminasyon laban sa kababaihan.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Philippine Labor Code (P.D 422)</h3>
+			<p>Pangunahing batas ng bansa para sa mga manggagawa na itinatag noong Mayo 1, 1974.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Technical  Education  and  Skills  Development  Act  of  1994 (R.A 7796)</h3>
+			<p>Layuning palakasin ang pakikiisa ng iba't ibang sektor upang mapabuti ang kasanayan at kalidad ng yamang tao sa bansa.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>Social Security Act of 1997 (R.A 8282)</h3>
+			<p>Nagtatakda ng tungkulin ng estado na paunlarin at pangalagaan ang seguridad at kagalingang panlipunan ng mga manggagawa.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>National Health Insurance Act of 1995 (R.A 7875)</h3>
+			<p>Nagtatag ng Philippine Health Insurance Corporation (PhilHealth) upang matiyak na may maayos at sistematikong kaseguruhang pangkalusugan ang lahat ng Pilipino.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Programa para sa Mamamayan ⋆.𐙚 ̊</div>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>DOLE Integrated Livelihood Program (DILP)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="dilp.png" alt="DILP">
+					<p style="font-size:10px;text-align:center;">Sanggunian: kindpng</p>
+					<p>Nagbibigay ng pagsasanay at tulong pangkabuhayan para sa sariling hanapbuhay.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Self-Employment Assistance Kaunlaran Program (SEA-K)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="seak.jpg" alt="SEA-K">
+					<p style="font-size:10px;text-align:center;">Sanggunian: ibaangibaan.wordpress.com</p>
+					<p>Tumutulong sa mahihirap na pamilya sa pagsasanay at pagsisimula ng negosyo.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Integrated Services for Livelihood Advancement of the Fisherfolks (ISLA)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="isla.jpg" alt="ISLA">
+					<p style="font-size:10px;text-align:center;">Sanggunian: Philstar.com</p>
+					<p>Nagbibigay ng suporta sa pamamagitan ng pagsasanay at pagkakaloob ng kagamitan upang mapaunlad ang kanilang hanapbuhay.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Cash-For-Work Program (CWP)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="cwp.jpg" alt="CWP">
+					<p style="font-size:10px;text-align:center;">Sanggunian: DSWD</p>
+					<p>Pansamantalang kita para sa nasalanta, kapalit ng trabahong pang-rehabilitasyon.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Pantawid Pamilyang Pilipino Program (4Ps)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="4ps.jpg" alt="4Ps">
+					<p style="font-size:10px;text-align:center;">Sanggunian: pressone.ph</p>
+					<p>Tulong-pinansyal sa pinakamahihirap na Pilipino kapalit ng pagsunod sa mga kondisyong pangkalusugan at pang-edukasyon ng kanilang mga anak.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<hr>
+	<div class="paksaheading">⋆˙⟡ Click me~ ⋆.𐙚 ̊</div>
+	
+	<hr>
+  
+</body>
+</html>

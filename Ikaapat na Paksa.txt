@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⋆˙⟡ Ikatlong Paksa</title>
+    <link rel="stylesheet" href="ap_portfolio_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1 style="color:#3d285d;font-weight:bold;text-align:center;"> ⋆˚࿔ Araling Panlipunan 𝜗𝜚˚⋆ </h1>
+	
+	<hr>
+	
+	<div class="paksaheading">⋆˙⟡ Ikatlong Paksa: Industriya ⋆.𐙚 ̊</div>
+	
+	<hr>
+	
+	<div class="card-wrapper">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Industriya</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    Tumutukoy sa pagproseso ng mga hilaw na materyal at paggawa ng mga produkto na kinakailangan para sa pampublikong pamilihan.
+					Naglalayong maiproseso ang mga hilaw na materyal upang makabuo ng produkto na ginagamit ng tao.
+                </p>
+            </div>
+        </div>
+    </div>
+	</div>
+
+	<br>
+
+	<div class="paksaheading">⋆˙⟡ Sub-Sektor ng Industriya ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>1. Pagmimina (Mining)</h3>
+			<h3>2. Pagmamanupaktura (Manufacturing)</h3>
+			<h3>3. Konstruksyon (Construction)</h3>
+			<h3>4. Utilities</h3>
+			</div>
+		</div>
+	</div>
+	
+	<div class="door-element">
+	<div class="door-wrapper">
+		<img src="gampanin_industriya.png">
+		<div id="left-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="left-knob" class="knob"></div>
+		</div>
+		<div id="right-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="right-knob" class="knob"></div>
+		</div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Kahalagahan ng Agrikultura ⋆.𐙚 ̊</div>
+	
+	<div class="envelope-container">
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Tumatanggap ng produkto mula sa agrikultura at serbisyo, Nagbibigay ng trabaho</p>
+		</div>
+	</div>
+	
+	<br>
+	
+	<div class="envelope-wrapper">
+		<div class="lid one"></div>
+		<div class="lid two"></div>
+		<div class="envelope"></div>
+		<div class="letter">
+			<p>Nagpapasok ng dolyar, Gumagamit ng makabagong teknolohiya, Gumagawa ng intermediate products</p>
+		</div>
+	</div>
+	</div>
+	
+	<br>
+	
+	<div class="paksaheading">⋆˙⟡ Pagkakaugnay ng Agrikultura at Industriya ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<p>- Nagmumula sa agrikultura ang mga hilaw na sangkap na ginagamit sa pagbuo ng mga produkto ng industriya.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>- Ang mga ginagamit na traktora, sasakyang pangingisda, at iba pang produkto ay mula sa industriya na ginagamit ng mga magsasaka upang magkaroon ng mataas na produksyon na magbibigay ng malaking kita sa sektor ng agrikultura.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>- Ang dami ng lakas-paggawa sa mga mamimili ay nagpapakita ng lubos na pagtutulungan sa mga sector ng industriya at agrikultura.</p>
+			</div>
+		</div>
+			<div class="block">
+			<div class="block_text">
+			<p>- Ang agrikultura ang pinagmumulan ng pagkain ng mga industriya na siyang tumutugon sa mga pagkaing kinakailangan ng mga tao.</p>
+			</div>
+			</div>
+			<div class="block">
+			<div class="block_text">
+			<p>- Ang industriya ang nagbibigay ng malaking kontribusyon sa ekonomiya.</p>
+			</div>
+			</div>
+			<div class="block">
+			<div class="block_text">
+			<p>- Ang mga sangkap ay nagkakaroon ng transpormasyon dahil sa mga lakas–paggawa na gumagawa upang madagdagan ang halaga nito at lalo pang gumanda.</p>
+			</div>
+			</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Suliranin ng Industriya ⋆.𐙚 ̊</div>
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>1. Pondo at kompetisyon</h3>
+			<h3>2. Paghina ng lokal na industriya</h3>
+			<h3>3. Demand</h3>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Mga Patakarang Pang-Ekonomiya ⋆.𐙚 ̊</div>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Filipino First Policy</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="filipinofirstpolicy.jpg" alt="Filipino First Policy">
+					<p style="font-size:10px;text-align:center;">Sanggunian: newmandala.org</p>
+					<p>Nagsimula sa programang FIlipino Muna ni Pangulong Carlos P. Garcia. Naglalayong bigyan ng higit na malaking partisipasyon ang mga Pilipino sa pagpapatakbo ng ekonomiya.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Oil Deregulation Law (R.A. 8749):</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="oildereg.jpg" alt="Oil Deregulation Law">
+					<p style="font-size:10px;text-align:center;">Sanggunian: ABS-CBN</p>
+					<p>Nagbukas ng kompetisyon sa industriya ng langis. Ang pamilihan ang nagdidikta sa presyo ng petrolyo, at hindi ito maaaring pakialaman ng gobyerno.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Patakaran ng Microfinancing</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="microfinancing.jpg" alt="Patakaran ng Microfinancing">
+					<p style="font-size:10px;text-align:center;">Sanggunian: LinkedIn</p>
+					<p>Serbisyong pinansiyal na isinasagawa ng mga bangko na magpautang na mayroong mababang interes sa mahihirap na pamilya.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Patakaran sa Online Business</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="onlinebusiness.png" alt="Patakaran sa Online Business">
+					<p style="font-size:10px;text-align:center;">Sanggunian: Fitz Villafuerte</p>
+					<p>Online shopping o retailing, Online intermediary service, Online advertisement o classified ads, Online auction.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Retail Nationalization Act of 1964 (R.A. 1180)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<p>Sampung taong palugit sa mga dayuhang capitalist. Pilipino na may korporasyon o asosasyon lamang ang nasa kalakalang pagtitingi.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Retail Trade Liberalization Act of 2000 (R.A. 8762)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<p>Nagpawalang-bisa sa RA 1180. Binuksan ang kalakalang pagtitingi sa mga dayuhan.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Build-Operate-Transfer (BOT) (R.A. 6957)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="bot.jpg" alt="Build-Operate-Transfer">
+					<p style="font-size:10px;text-align:center;">Sanggunian: BusinessWorld Online</p>
+					<p>Binibigyan ng karapatang bumuo ng mga pasilidad sa kanilang mga sariling pondo at palakarin ito sa humigit-kumulang na 25 taon.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Asset Privatization Trust (APT)</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<p>Itinatag upang mapangasiwaan ang pagbebenta ng mga korporasyong pagmamay-ari ng pamahalaan sa pribadong pagmamay-ari. Pinasimula ni Corazon Aquino.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Sangay ng Pamahalaan na Tumutulong sa Sektor ng Industriya ⋆.𐙚 ̊</div>
+	<div class="door-element">
+	<div class="door-wrapper">
+		<img src="sangay_industriya.png">
+		<div id="left-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="left-knob" class="knob"></div>
+		</div>
+		<div id="right-door" class="door">
+			<div class="shape"></div>
+			<div class="shape"></div>
+			<div id="right-knob" class="knob"></div>
+		</div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Karagdagang Impormasyon ⋆.𐙚 ̊</div>
+	<div class="book-container">
+	<div class="book">
+		<div class="cover"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="last-page">
+			<div class="last-page-text-2">
+			<p>- Industriyalisasyon: paggamit ng mga makinarya at makabagong kagamitan sa paglinang ng mga industriya at pinagkukunang yaman.</p>
+			<p>- Sekundaryang sektor: ang kumakatawan sa industriya.</p>
+			</div>
+		</div>
+		<div class="back-cover"></div>
+	</div>
+	</div>
+	
+	
+	<hr>
+	<div class="paksaheading">⋆˙⟡ Click me~ ⋆.𐙚 ̊</div>
+	
+	<hr>
+  
+</body>
+</html>
