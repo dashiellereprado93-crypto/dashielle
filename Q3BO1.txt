@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Simple Font Properties</title>
+		<style type="text/css">
+			.family { font-family: Times New Roman, sans-serif; }
+			.size { font-size: 16px; }
+			.weight { font-weight: bold; }
+			.style { font-style: italic; }
+			.variant { font-variant: small-caps; }
+		</style>
+</head>
+
+<body>
+
+	<h1>Font Properties Examples</h1>
+	
+	<p class="family">This text uses <b><u>font-family</u></b>.</p>
+	<p class="size">This text uses <b><u>font-size</u></b>.</p>
+	<p class="weight">This text uses <b><u>font-weight</u></b>.</p>
+	<p class="style">This text uses <b><u>font-style</u></b>.</p>
+	<p class="variant">This text uses <b><u>font-variant</u></b>.</p>
+	
+</body>
+
+</html>

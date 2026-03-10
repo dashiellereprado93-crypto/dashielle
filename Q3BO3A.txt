@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FLOAT</title>
+    <style>
+        body { font-family: Arial; }
+        h2 { color: #333399; }
+        div { padding: 20px; margin: 5px; }
+        img { height: 200px; width: 150px; margin: 20px; float: left; }
+    </style>
+</head>
+<body>
+    <h2>Creative Design</h2>
+    <img src="creative.jpg" alt="Creative Design Image">
+    <p><font size="4">
+        The book contains Adobe Photoshop, Illustrator, OnDesign, and Acrobat. The book aims to educate 
+        the students in creating, designing, and editing graphics using different software that may work relatively.
+    </font></p>
+    
+    <h2>Office Productivity</h2>
+    <div>
+        <img src="office-productivity.jpg" alt="Office Productivity Image">
+        <p><font size="4">
+            The book contains MS Word 2010, MS Excel 2010, MS PowerPoint 2010, and MS Outlook 2010.
+            The book aims to educate the students in creating documents, worksheets, presentations, and organization using different
+            software that may work relatively.
+        </font></p>
+    </div>
+</body>
+</html>

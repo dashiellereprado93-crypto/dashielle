@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>My Personal Space</title>
+
+<link rel="stylesheet" href="mpwpstyle.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div id="sparkles"></div>
+
+<div class="container">
+
+<h1 class="title">⋆˚࿔ My Personal Space 𝜗𝜚˚⋆</h1>
+<p class="subtitle">⋆˙⟡ Get to know Dash! ⋆.𐙚 ̊</p>
+
+<!-- ABOUT ME -->
+
+<div class="card">
+
+<img src="dashie.jpg" class="profile">
+
+<h2>About Me!</h2>
+
+<p>
+<h3> "DASH" </h3>
+Name: Dashielle Marie D. Reprado <br>
+Age: 15<br>
+Birthday: 09/03/2010<br>
+Favorites: purple, dogs, geography, debate, journalism
+</p>
+
+</div>
+
+<!-- PHOTO GALLERY -->
+
+<div class="card">
+
+<h2>My Photos</h2>
+
+<div class="grid">
+
+<div class="media">
+<img src="dashie1.jpg">
+</div>
+
+<div class="media">
+<img src="dashie2.jpg">
+</div>
+
+<div class="media">
+<img src="dashie3.jpg">
+</div>
+
+<div class="media">
+<img src="dashie4.jpg">
+</div>
+
+<div class="media">
+<img src="dashie5.jpg">
+</div>
+
+<div class="media">
+<img src="dashie6.jpg">
+</div>
+
+<div class="media">
+<img src="dashie7.jpg">
+</div>
+
+<div class="media">
+<img src="dashie8.jpg">
+</div>
+
+</div>
+
+</div>
+
+<!-- VIDEOS -->
+
+<div class="card">
+
+<h2>My Videos</h2>
+
+<div class="grid">
+
+<div class="media">
+<div class="video-wrapper">
+<video controls>
+<source src="video1.mov">
+</video>
+</div>
+</div>
+
+<div class="media">
+<div class="video-wrapper">
+<video controls>
+<source src="video2.mov">
+</video>
+</div>
+</div>
+
+</div>
+
+<br>
+
+<div class="grid">
+
+<div class="media">
+<div class="video-wrapper">
+<video controls>
+<source src="video3.mov">
+</video>
+</div>
+</div>
+
+<div class="media">
+<div class="video-wrapper">
+<video controls>
+<source src="video4.mov">
+</video>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>My Friend Group</h2>
+
+<div class="friend-groups">
+
+<!-- GROUP 1 -->
+
+<div class="friend-group">
+
+<div class="group-media">
+<img src="fg1.png">
+</div>
+
+<h3>Skinny 12</h3>
+
+<p>
+My first and most longstanding friend group here in LPSci.
+We all met through being classmates in Grade 7 - Bravery, and ever
+since then, we've never left each other's sides. Though not
+as close as before, we still love, value, and care for everyone
+in our group just as much. I hope to hang out with just them soon.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>My Friends</h2>
+
+<div class="friends-grid">
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="jadee.jpg">
+</div>
+
+<h3>Jadee</h3>
+
+<p>
+A wonderful journalist with an exceptional way with her
+words. She never fails in making me smile or making me
+happy. JD is someone I look forward to seeing and talking 
+to everyday.
+</p>
+
+</div>
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="nina.jpg">
+</video>
+</div>
+
+<h3>Nina</h3>
+
+<p>
+An elegant dancer with poise and discipline, but
+her quiet chaos is something I can never get tired of.
+You can't help but laugh with her because her laughter is so contagious.
+</p>
+
+</div>
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="maeur.jpg">
+</div>
+
+<h3>Maeur</h3>
+
+<p>
+His heart is for the arts and for being the sunshine in
+his friends' lives. It's like he has a mental note for
+all the jokes he knows I will laugh the hardest at, but he
+can also be present in deeper, more existential talks.
+</p>
+
+</div>
+
+</div>
+
+<div class="friends-grid">
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="jayzel.jpg">
+</div>
+
+<h3>Jayzel</h3>
+
+<p>
+She might come off as too overbearing to some, but to me,
+she is the only bear I will hug. Her outgoingness and easy personality 
+makes me laugh and wanna try something new everyday, she is a friend I will never wish to
+change or trade for another.
+</p>
+
+</div>
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="martin.jpg">
+</video>
+</div>
+
+<h3>Martin</h3>
+
+<p>
+He has witnessed more of me than any of my other friends have,
+we went into this school as a duo and came out with more friends
+than we can count on our ten fingers. He is truly an "OG" and I don't
+see my future without my friendship with him.
+</p>
+
+</div>
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="renz.jpg">
+</div>
+
+<h3>Renz</h3>
+
+<p>
+The closest thing I have to a younger brother as a bunso of a family with 3
+daughters. He is the most perfect balance of "makulit" yet mature. When I am
+around him, I feel like I can let loose and live life to the fullest and at the
+same time, reflect on my being as a person.
+</p>
+
+</div>
+
+</div>
+
+<div class="friends-grid">
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="emman.jpg">
+</div>
+
+<h3>Emman</h3>
+
+<p>
+My CIC and LG-COMEA buddy. Though yes, we disagree on some things, especially
+on how to manage CIC, but he is truly my "partner-in-crime" and I can't imagine
+having any other person by my side assisting me in handling our organization. I am
+sad to see him now part ways with CIC, but I wish him luck on his endeavors.
+</p>
+
+</div>
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="benj.jpg">
+</video>
+</div>
+
+<h3>Benj</h3>
+
+<p>
+My radiobroad buddy and my actual neighbor. We bond over just talking about the most random 
+stuff that we (along with Jayzel) opened a podcast called "The North Lapiscians" because him, 
+Jayzel, and I are from (you guessed it) North Las Piñas. He is easy to chat with and we can
+jump from one topic to another when discussing about things in life.
+</p>
+
+</div>
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="andrew.jpg">
+</div>
+
+<h3>Andrew</h3>
+
+<p>
+I find comfort in his flamboyancy and with the fact that he knows many niche stuff and references
+that I know other people besides us won't get. I enjoy watching and giving commentary on shows
+with him and we also like discussing our opinion on certain topics that interest us. He truly is
+someone that lights up my life.
+</p>
+
+</div>
+
+</div>
+
+<div class="friends-grid">
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="riley.jpg">
+</div>
+
+<h3>Riley</h3>
+
+<p>
+He is the type of friend that knows which buttons to press to make you happy. Also confident and unapolagetically
+himself, I would describe him as an avid enjoyer of social media and all things Taylor Swift. He will sometimes just
+burst into song but his energy is too enjoyable that you can't help but sing along.
+</p>
+
+</div>
+
+<!-- FRIEND -->
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="eunice.jpg">
+</video>
+</div>
+
+<h3>Eunice</h3>
+
+<p>
+An amazing bassist of her band, she really knows how to set the stage ablaze every time she steps foot on it. Her style
+and aura is something really admirable to me and she is someone I aspire to be musically. She is a good friend and
+overall really fun to hang out with. Her laid back energy is cool and she just has a charm about her that sets her different
+from anybody else.
+</p>
+
+</div>
+
+<div class="friend-card">
+
+<div class="friend-media">
+<img src="romina.jpg">
+</div>
+
+<h3>Romina</h3>
+
+<p>
+My seatmate for the past 2 quarters. She is someone who's presence I value deeply and it sucks everytime I get excused because it
+means I wouldn't get to hang out with her more. We hug everytime we see each other again after a long time and our banter during
+class discussions is something I will miss if ever the time comes that she will not be my seatmate anymore.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>My Family</h2>
+
+<div class="family-grid">
+
+<!-- FAMILY MEMBER -->
+
+<div class="family-card">
+
+<div class="family-media">
+<img src="mom.jpg">
+</div>
+
+<h3>Mom</h3>
+
+<p>
+My mother is also a strong, smart, loving, brave, and outgoing person who is my father's 
+right-hand woman in our home. She not only is the light of our household but she is also hands-on 
+in our family business.
+</p>
+
+</div>
+
+<!-- FAMILY MEMBER -->
+
+<div class="family-card">
+
+<div class="family-media">
+<img src="dad.jpg">
+</div>
+
+<h3>Dad</h3>
+
+<p>
+My father is a strong, smart, compassionate, and caring person who acts as the 
+shield of our family. He works tireless nights to take care of me, my sisters, and my mom.
+</p>
+
+</div>
+
+<!-- FAMILY MEMBER -->
+
+<div class="family-card">
+
+<div class="family-media">
+<img src="ate1.jpg">
+</video>
+</div>
+
+<h3>Eldest Ate</h3>
+
+<p>
+My eldest ate is a very smart, loving, and hardworking 
+person who I look up to in my studies. I've never seen her spend 
+a night not drowning in her books.
+</p>
+
+</div>
+
+<!-- FAMILY MEMBER -->
+
+<div class="family-card">
+
+<div class="family-media">
+<img src="ate2.jpg">
+</div>
+
+<h3>Middle Ate</h3>
+
+<p>
+My middle ate is also a smart, artistic, and creative person who 
+I think I got my love for the arts from. She is one of the best artists I know.
+</p>
+
+</div>
+
+
+</div>
+
+</div>
+
+</div>
+
+<footer>
+
+Made with love, Dash
+
+</footer>
+
+</div>
+
+<script src="scripte.js"></script>
+
+</body>
+</html>

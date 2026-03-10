@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Color to a Text</title>
+		<style type="text/css">
+			h1{background:beige; color:red; font-weight:bold;
+			text-align:center;}
+			body {background-color:blue;}
+			p{color:yellow}
+		</style>
+</head>
+
+<body>
+	
+		<h1>No Man Is An Island - by John Donne</h1>
+		
+	<p>No man is an island,<br>
+	Entire of itself,<br>
+	Every man is a piece of the continent,<br>
+	A part of the main.<br>
+	If a clod be washed away by the sea,<br>
+	Europe is the less.<br>
+	As well as if a promontory were.<br>
+	As well as if a manor of thy friend's<br>
+	Or of thine own were:<br<
+	Any man's death diminishes me,
+	Because I am involved in mankind,<br>
+	And therefore never send to know for whom the bell tolls;<br>
+	It tolls for thee.<br></p>
+
+</body>
+
+</html>

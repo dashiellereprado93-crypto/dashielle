@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⋆˙⟡ 3rd Quarter Browser Outputs</title>
+    <link rel="stylesheet" href="ap_portfolio_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1 style="color:#3d285d;font-weight:bold;text-align:center;"> ⋆˚࿔ Browser Outputs 𝜗𝜚˚⋆ </h1>
+	
+	<hr>
+	
+	<div class="paksaheading">⋆˙⟡ My outputs from the 3rd Quarter~ ⋆.𐙚 ̊</div>
+	
+	<hr>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Lesson 1 Browser Output</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="Q3BO1.png" alt="Lesson 1 Browser Output">
+					<p style="font-size:10px;text-align:center;"><a href="Q3BO1.html" target="_blank">Click me to access my Browser Output from Lesson 1</a></p>
+					<p>This webpage shows how to change text appearance using CSS font properties like family, size, weight, style, and variant. Each paragraph demonstrates a different property, labeled with bold and underlined text for clarity.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Lesson 2 Browser Output</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="Q3BO2.png" alt="Lesson 2 Browser Output">
+					<p style="font-size:10px;text-align:center;"><a href="Q3BO2.html" target="_blank">Click me to access my Browser Output from Lesson 2</a></p>
+					<p>This webpage features a poem with a styled header and yellow-colored text on a blue background. The header is bold, centered, and has a beige background for emphasis.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Lesson 3 Browser Output</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="Q3BO3.png" alt="Lesson 3 Browser Output">
+					<p style="font-size:10px;text-align:center;"><a href="Q3BO3.html" target="_blank">Click me to access my Browser Output from Lesson 3</a></p>
+					<p>This HTML code creates a webpage titled "Background Image" with a linked external CSS stylesheet, and displays a story about "The Fox and the Grapes" using multiple paragraphs with line breaks.<p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Lesson 3A Browser Output</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="Q3BO3A.png" alt="Lesson 3A Browser Output">
+					<p style="font-size:10px;text-align:center;"><a href="Q3BO3A.html" target="_blank">Click me to access my Browser Output from Lesson 3A</a></p>
+					<p>This webpage features two sections with images and descriptions about design and office software, styled with CSS for layout and appearance. The images are floated to the left to allow text to wrap around them, creating a clean, organized design.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Lesson 4 Browser Output</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<br>
+					<img src="Q3BO4.png" alt="Lesson 4 Browser Output">
+					<p style="font-size:10px;text-align:center;"><a href="Q3BO4.html" target="_blank">Click me to access my Browser Output from Lesson 4</a></p>
+					<p>This code creates a styled HTML table with a header row spanning three columns, featuring a yellow highlight for certain rows, and custom styles for font, background, and borders. It displays a series of book titles, descriptions, and publishers in a visually organized format.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+	<hr>
+	<div class="paksaheading"><a href="Third Quarter.html" target="_blank">⋆˙⟡ Click me to return to the 3rd Quarter Page! ⋆.𐙚 ̊</div>
+	
+	<hr>
+  
+</body>
+</html>

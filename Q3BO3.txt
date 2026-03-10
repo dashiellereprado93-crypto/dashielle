@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Background Image</title>
+	<link rel="stylesheet" href="image.css" type="text/css">
+</head>
+
+<body>
+
+<h1>The Fox and the Grapes</h1>
+
+	One day the fox was very hungry.<br>
+	He searched everywhere for food.<br>
+	At last, the fox went in a vineyard.<br>
+	He saw some bunches of grapes hanging from the vines.
+	</p><br><br><br>
+	<p>He tried to reach them but they were too high.<br>
+	He jumped again and again<br>
+	but could not reach them.</p><br><br><br<
+	<p>At last he got tired and said,<br<
+	"these grapes are sour and I don't want them."<br>
+	Then the fox ran away.</p>
+
+</body>
+
+</html>
