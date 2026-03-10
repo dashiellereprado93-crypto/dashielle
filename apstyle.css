@@ -1,0 +1,1183 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url('websitebackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #f0f0f0;
+	font-weight: bold;
+}
+
+h1 {
+    font-size: 2.1em;
+    margin-bottom: 15px;
+}
+
+hr {
+    border-top: 5px solid #9273c2;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+/* PAKSA 1: DEMAND */
+.paksa1 {
+    text-align: center;
+    color: #3d285d;
+	border: 2px solid #654989;
+	background-image: url('paragraphbackground.png');
+}
+
+.unang_paksa {
+    display: flex;    
+    justify-content: space-around;
+    flex-wrap: wrap;           
+    width: 100%;            
+    padding: 20px;          
+}
+
+.demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.demand img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.demand-text {
+    padding: 20px;
+}
+
+.demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.demand_func:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.demand_func {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.demand_func:hover {
+    transform: scale(1.1); /* Scale the block on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhance the shadow */
+	opacity: 1; /* Fully visible on hover */
+}
+
+.demand_func img {
+    width: 1%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.demand_func img {
+    width: 100%;              /* Adjust as needed */
+    height: auto;
+    border-radius: 10px 0 0 10px; /* Round only the left corners */
+    display: block;            /* Remove extra space below the image */
+}
+
+.demand_func-text {
+    padding: 20px;
+}
+
+.demand_func-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.demand_func-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.demand_sched {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;        /* Vertically align items */
+    width: 45%;              /* Adjust as needed (less than 50% for spacing) */
+    margin-bottom: 20px;       /* Add some bottom margin */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    overflow: hidden;          /* Prevent content from overflowing rounded corners */
+	transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.demand_sched:hover {
+    transform: scale(1.1); /* Scale the block on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhance the shadow */
+	opacity: 1; /* Fully visible on hover */
+}
+
+.demand_sched img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.demand_sched-text {
+    padding: 20px;
+}
+
+.demand_sched-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.demand_sched-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.demand_curve {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.demand_curve:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.demand_curve img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.demand_curve-text {
+    padding: 20px;
+}
+
+.demand_curve-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.demand_curve-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.batas_ng_demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    /* Remove display: flex from here */
+    align-items: center;        /* Vertically align items */
+    width: 45%;              /* Adjust as needed (less than 50% for spacing) */
+    margin-bottom: 20px;       /* Add some bottom margin */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    overflow: hidden;          /* Prevent content from overflowing rounded corners */
+	transition: transform 0.3s ease;
+}
+
+.batas_ng_demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.batas_ng_demand img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.b_ng_demand-text {
+    padding: 20px;
+}
+
+.b_ng_demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.b_ng_demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2;
+}
+
+.salik_demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.salik_demand img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.salik_demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.salik_demand-text {
+    padding: 20px;
+}
+
+.salik_demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.salik_demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2;
+}
+
+
+
+
+
+
+
+/* PAKSA 2: SUPPLY CODE */
+.paksa2 {
+    text-align: center;
+    color: #3d285d;
+	border: 2px solid #654989;
+	background-image: url('paragraphbackground.png');
+}
+
+.ikalawang_paksa {
+    display: flex;    
+    justify-content: space-around;
+    flex-wrap: wrap;           
+    width: 100%;            
+    padding: 20px; 
+}
+
+.supply {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.supply:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.supply img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.supply-text {
+    padding: 20px;
+}
+
+.supply-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.supply-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.supply_func {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.supply_func:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.supply_func-text {
+    padding: 20px;
+}
+
+.supply_func-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.supply_func-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.supply_sched {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;        /* Vertically align items */
+    width: 45%;              /* Adjust as needed (less than 50% for spacing) */
+    margin-bottom: 20px;       /* Add some bottom margin */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    overflow: hidden;          /* Prevent content from overflowing rounded corners */
+	transition: transform 0.3s ease;
+}
+
+.supply_sched:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.supply_sched img {
+    width: 90%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.supply_sched-text {
+    padding: 20px;
+}
+
+.supply_sched-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.supply_sched-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.supply_curve {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.supply_curve:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.supply_curve img {
+    width: 40%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.supply_curve-text {
+    padding: 20px;
+}
+
+.supply_curve-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.supply_curve-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.batas_ng_supply {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.batas_ng_supply:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.batas_ng_supply img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.b_ng_supply-text {
+    padding: 20px;
+}
+
+.b_ng_supply-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.b_ng_supply-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.salik_supply {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.salik_supply:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.salik_supply img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.salik_supply-text {
+    padding: 20px;
+}
+
+.salik_supply-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.salik_supply-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+
+
+
+/* PAKSA 3: PRICE ELASTICITY */
+.paksa3 {
+    text-align: center;
+    color: #3d285d;
+	border: 2px solid #654989;
+	background-image: url('paragraphbackground.png')
+}
+
+.ikatlong_paksa {
+    display: flex;    
+    justify-content: space-around;
+    flex-wrap: wrap;           
+    width: 100%;            
+    padding: 20px; 
+	background-image: url('paragraphbackground');
+}
+
+.elastisidad {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.elastisidad:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.elastisidad-text {
+    padding: 20px;
+}
+
+.elastisidad-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.elastisidad-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.di_elastik_demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.di_elastik_demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.di_elastik_demand-text {
+    padding: 20px;
+}
+
+.di_elastik_demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.di_elastik_demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.ganap_di_elastik_demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;        /* Vertically align items */
+    width: 45%;              /* Adjust as needed (less than 50% for spacing) */
+    margin-bottom: 20px;       /* Add some bottom margin */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    overflow: hidden;          /* Prevent content from overflowing rounded corners */
+	transition: transform 0.3s ease;
+}
+
+.ganap_di_elastik_demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.ganap_di_elastik_demand img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.ganap_di_elastik_demand-text {
+    padding: 20px;
+}
+
+.ganap_di_elastik_demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.ganap_di_elastik_demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.elastik_demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.elastik_demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.elastik_demand img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.elastik_demand-text {
+    padding: 20px;
+}
+
+.elastik_demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.elastik_demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.ganap_elastik_demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.ganap_elastik_demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.ganap_elastik_demand img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.ganap_elastik_demand-text {
+    padding: 20px;
+}
+
+.ganap_elastik_demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.ganap_elastik_demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+.unitary_demand {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.unitary_demand:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.unitary_demand img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.unitary_demand-text {
+    padding: 20px;
+}
+
+.unitary_demand-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.unitary_demand-text p {
+    margin-bottom: 5px;
+    color: #9273c2
+}
+
+
+
+
+
+
+/* PAKSA 4: MARKET EQUILIBRIUM */
+.paksa4 {
+    text-align: center;
+    color: #3d285d;
+    border: 2px solid #654989;
+	background-image: url('paragraphbackground.png')
+}
+
+.ikaapat_na_paksa {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Card Container */
+.card-container {
+    width: 45%;
+    height: 300px;
+    perspective: 1000px;
+    margin-bottom: 20px;
+}
+
+/* Card */
+.card {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.card-container:hover .card {
+    transform: rotateY(180deg);
+}
+
+/* Card Sides */
+.card-front,
+.card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Card Front */
+.card-front {
+    background-color: #e7dfff;
+    border: 3px dashed #654989;
+    color: #3d285d;
+}
+
+/* Card Back */
+.card-back {
+    background-color: #d0c0e0;
+    color: #3d285d;
+    transform: rotateY(180deg);
+    border: 3px solid #654989;
+    overflow: auto;
+}
+
+.card-back img {
+    max-width: 40%;
+    max-height: 200px;
+    object-fit: contain;
+    border-radius: 10px;
+    border: 4px solid #654989;
+}
+
+.card-back p {
+    font-size: 0.9em;
+}
+
+/* Styles for content inside the card */
+.disekwilibriyo-text h3,
+.surplus-text h3,
+.shortage-text h3, {
+    margin-top: 0;
+    color: #654989;
+}
+
+.disekwilibriyo-text h3,
+.surplus-text h3,
+.shortage-text h3, {
+    margin-bottom: 5px;
+    color: #9273c2;
+}
+
+
+
+
+
+
+
+/* PAKSA 5: IBA'T IBANG ESTRUKTURA NG PAMILIHAN CODE */
+.paksa5 {
+    text-align: center;
+    color: #3d285d;
+    border: 2px solid #654989;
+	background-image: url('paragraphbackground.png')
+}
+
+.ikalimang_paksa {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Card Container */
+.card-container {
+    width: 45%;
+    height: 300px;
+    perspective: 1000px;
+    margin-bottom: 20px;
+}
+
+/* Card */
+.card {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.card-container:hover .card {
+    transform: rotateY(180deg);
+}
+
+/* Card Sides */
+.card-front,
+.card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Card Front */
+.card-front {
+    background-color: #e7dfff;
+    border: 3px dashed #654989;
+    color: #3d285d;
+}
+
+/* Card Back */
+.card-back {
+    background-color: #d0c0e0;
+    color: #3d285d;
+    transform: rotateY(180deg);
+    border: 3px solid #654989;
+    overflow: auto;
+}
+
+.card-back img {
+    max-width: 40%;
+    max-height: 200px;
+    object-fit: contain;
+    border-radius: 10px;
+    border: 4px solid #654989;
+}
+
+.card-back p {
+    font-size: 0.9em;
+}
+
+/* Styles for content inside the card */
+.ganap-text h3,
+.di_ganap-text h3,
+.monopolyo-text h3,
+.monopsonyo-text h3,
+.oligopolyo-text h3,
+.monopolistiko-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.ganap-text p,
+.di_ganap-text p,
+.monopolyo-text p,
+.monopsonyo-text p,
+.oligopolyo-text p,
+.monopolistiko-text p {
+    margin-bottom: 5px;
+    color: #9273c2;
+}
+
+
+
+
+
+
+/* PAKSA 6: BAHAGING GINAGAMPANAN NG PAMAHALAAN SA REGULASYON NG MGA GAWAING PAGKABUHAYAN CODE */
+.paksa6 {
+    text-align: center;
+    color: #3d285d;
+	border: 2px solid #654989;
+	background-image: url('paragraphbackground.png')
+}
+
+.ikaanim_na_paksa {
+    display: flex;    
+    justify-content: space-around;
+    flex-wrap: wrap;           
+    width: 100%;            
+    padding: 20px;          
+}
+
+.price_control {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.price_control img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.price_control:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.control-text {
+    padding: 20px;
+}
+
+.control-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.control-text p {
+    margin-bottom: 5px;
+    color: #9273c2;
+}
+
+.price_ceiling {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.price_ceiling:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.price_ceiling img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.ceiling-text {
+    padding: 20px;
+}
+
+.ceiling-text h3 {
+    margin-top: 0;
+    color: #654989;
+}
+
+.ceiling-text p {
+    margin-bottom: 5px;
+    color: #9273c2;
+}
+
+.price_floor {
+    background-color: #e7dfff;
+	border: 3px dashed #654989;
+    border-radius: 10px;
+    align-items: center;
+    width: 45%;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	transition: transform 0.3s ease;
+}
+
+.price_floor:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	opacity: 1;
+}
+
+.price_floor img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px;
+	position: relative;
+	left: 50%;
+	padding-top: 6px;
+	transform: translateX(-50%);
+}
+
+.floor-text {
+    padding: 20px;
+}
+
+.floor-text h3 {
+	font-weight:bold;
+    margin-top: 0;
+    color: #654989;
+}
+
+.floor-text p {
+	font-weight:bold;
+    margin-bottom: 5px;
+    color: #9273c2;
+}
