@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>⋆˙⟡ 4th Quarter</title>
+	<link rel="stylesheet" href="ap_main_style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+	<div class="particles"></div>
+
+	<h1> ⋆˚࿔ 4th Quarter 𝜗𝜚˚⋆ </h1>
+
+	<hr>
+
+	<br>
+
+	<div class="paksaheading">⋆˙⟡ My compilation from the 4th Quarter of School Year 2025-2026! ⋆.𐙚 ̊</div>
+
+	<br>
+
+	<hr>
+
+<div class="paksa_block">
+
+<div class="block">
+<a href="4th Quarter LC.html" target="_blank">
+<div class="block_text">
+<h3>Lesson Compilation</h3>
+</div>
+</a>
+</div>
+
+<div class="block">
+<a href="Quarter 4 Events.html" target="_blank">
+<div class="block_text">
+<h3>4th Quarter Events</h3>
+</div>
+</a>
+</div>
+
+</div>
+
+<hr>
+
+<br>
+
+<div class="paksaheading"><a href="MainWebpage.html">⋆˙⟡ Click me to return to the main page! ⋆.𐙚 ̊</div>
+
+<br>
+
+<hr>
+
+<script src="ap_script.js"></script>
+
+</body>
+</html>
