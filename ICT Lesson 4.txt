@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⋆˙⟡ Lesson 4</title>
+    <link rel="stylesheet" href="ap_portfolio_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1 style="color:#3d285d;font-weight:bold;text-align:center;"> ⋆˚࿔ ICT/TLE 𝜗𝜚˚⋆ </h1>
+	
+	<hr>
+	
+	<div class="paksaheading">⋆˙⟡ Lesson 4: More on JavaScript ⋆.𐙚 ̊</div>
+	
+	<hr>
+	
+	<div class="card-wrapper">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Events</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    Events are actions that are triggered either by
+					mouse click, function calls, keyboard strokes,
+					loading of images, submitting an HTML form, etc.
+					Events are usually used in connection with
+					functions. Functions will not work without a force
+					that will trigger it.
+                </p>
+            </div>
+        </div>
+    </div>
+	</div>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Event Tables</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<h3>Events</h3>
+					<img src="eventtable1.png" alt="Event Tables">
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Can be used to validate forms or data</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<h3>Event Tables</h3>
+					<img src="eventtable2.png" alt="Event Tables">
+				</div>
+			</div>
+		</div>
+	
+	<hr>
+	
+	<div class="paksaheading"><a href="Fourth Quarter.html">⋆˙⟡ Click me to return to the main page! ⋆.𐙚 ̊</div>
+	
+	<hr>
+  
+</body>
+</html>

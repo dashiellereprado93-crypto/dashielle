@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⋆˙⟡ Lesson 4</title>
+    <link rel="stylesheet" href="ap_portfolio_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1 style="color:#3d285d;font-weight:bold;text-align:center;"> ⋆˚࿔ ICT/TLE 𝜗𝜚˚⋆ </h1>
+	
+	<hr>
+	
+	<div class="paksaheading">⋆˙⟡ Lesson 4: More on JavaScript ⋆.𐙚 ̊</div>
+	
+	<hr>
+	
+	<div class="card-wrapper">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Events</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    Events are actions that are triggered either by
+					mouse click, function calls, keyboard strokes,
+					loading of images, submitting an HTML form, etc.
+					Events are usually used in connection with
+					functions. Functions will not work without a force
+					that will trigger it.
+                </p>
+            </div>
+        </div>
+    </div>
+	</div>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Event Triggers</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<h3>Events</h3>
+					<img src="eventtable1.png" alt="Event Tables">
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Event Triggers</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<h3>Events</h3>
+					<img src="eventtable2.png" alt="Event Tables">
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="book-container">
+	<div class="book">
+		<div class="cover"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="last-page">
+			<div class="last-page-text">
+			<p>onload/onunload: Triggered when entering/exiting a page; used to check browser info and handle cookies.</p>
+			<p>onfocus/onblur/onchange: Used for form field validation.</p>
+			<p>onsubmit: Validates all form fields before submission.</p>
+			</div>
+		</div>
+		<div class="back-cover"></div>
+	</div>
+	</div>
+	
+	<div class="book-container">
+	<div class="book">
+		<div class="cover"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="page"></div>
+		<div class="last-page">
+			<div class="last-page-text">
+			<p>onmouseover/onmouseout: Used for animations, changing images when the mouse hovers over or leaves an element.</p>
+			<p>onclick: Used to link to another webpage or trigger an event, like opening a popup when a button is pressed.</p>
+			</div>
+		</div>
+		<div class="back-cover"></div>
+	</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ Popup Boxes ⋆.𐙚 ̊</div>
+	
+	<div class="card-wrapper">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Popup Boxes</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    Popup boxes are those windows that pop-out of your
+					screen. They could be before a page is fully loaded,
+					effect of an event on a page or before leaving a page.
+					JavaScript has three kinds of popup boxes; alert box,
+					user-input prompt box and confirm box. They're
+					useful in warning the user, gathering user input or 
+					simply to verify something.
+                </p>
+            </div>
+        </div>
+    </div>
+	</div>
+	
+	<div class="card-wrapper">
+	<div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Alert Box</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    This is usually used when you want to make sure
+					that the user reads your message such as warning
+					or a greeting.
+					Syntax: alert("message");
+				</p>
+            </div>
+        </div>
+    </div>
+	</div>
+	
+	<div class="card-wrapper">
+	<div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>User-Input Prompt Box</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    Usually used when you want data to be
+					prompted first before the user can enter a page.
+					User will have to choose either “ok” or ”cancel” to
+					continue. If the user chooses “ok”, the prompt box
+					will return the encoded value, else, it'll return null.
+					Syntax: prompt("message","defaultvalue");
+				</p>
+            </div>
+        </div>
+    </div>
+	</div>
+	
+	<div class="card-wrapper">
+	<div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <h2>Confirm Box</h2>
+            </div>
+            <div class="flip-card-back">
+                <p>
+                    This is usually used when you want the user to
+					verify or accept something. The user will have to
+					choose either “ok” and “cancel”. If “ok” was chosen,
+					the confirm box will return true; else, it will return false.
+					Syntax: confirm("message");
+				</p>
+            </div>
+        </div>
+    </div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ What is a Variable? ⋆.𐙚 ̊</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<h3>Variable</h3>
+			<p>- A variable is a temporary storage of values and
+			expressions. Expressions are formulae that use
+			mathematical symbols and numbers or a way to
+			assign values to a variable. For example, x=1+3 is an
+			expression and the value o=f x will hold the sum of
+			one plus three which is four.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>- Can detect user actions, such as mouse clicks, 
+			which HTML could not do alone.</p>
+			<p>- Can be combined with CSS to produce DHTML. DHTML can make site more 
+			flexible by adding effects such as message scrollers, mouse trails 
+			and falling snow.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<h3>In declaring a variable, there are certain rules to follow:</h3>
+			<p>- Case-sensitive: X is different from x.</p>
+			<p>- Start: Must begin with a letter or underscore (_).</p>
+			<p>- Characters: Use letters, numbers, or underscores.</p>
+			<p>- Avoid: Don't use reserved JavaScript words.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>- Automatic Declaration: Assigning a value to an undeclared variable automatically declares it.</p>
+			<p>- Variable Content: Can hold numbers, expressions, or string literals.</p>
+			<p>- String Literals: Text enclosed in quotation marks; numeric digits become strings.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>- Unquoted Characters: JavaScript interprets unquoted characters as objects or functions.</p>
+			<p>- Declaration: Use var variableName = value;</p>
+			<p>- Loosely Typed: Data types don't need pre-definition; they adapt to the assigned value (integer, string, boolean, etc.). Can change during runtime.</p>
+			<p>- Boolean: A data type representing true or false values, used for logical decisions.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Arithmetic Operations</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<p>JS uses the same arithmetic operations as in most
+					programming languages, like C. An arithmetic
+					operator is a symbol used to tell the expression
+					what kind of operation will be done.</p>
+					<img src="arithmetic.png" alt="Arithmetic">
+					<p>Modulus is performed by the remainder operator (%), 
+					which calculates the remainder after one number (the dividend)
+					is divided by another (the divisor)</p>
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Addition Symbol</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<p>The addition symbol (‘+’) can also be used to add
+					strings or text values together – this is called
+					concatenation. However, if you add a string and a
+					numerical value, the result will still be a string.</p>
+					<img src="addition.png" alt="Addition">
+					<p>Follow the order of precedence: innermost parentheses first, 
+					then outer parentheses, followed by multiplication, division, 
+					or modulus, and finally addition or subtraction.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<p>The `++` and `--` operators can be used independently or in expressions, 
+			affecting the result; avoid using them unless you fully understand their 
+			impact.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksaheading">⋆˙⟡ What are Comparison Statements? ⋆.𐙚 ̊</div>
+	
+	<div class="cards">
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Comparison Statements</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<p>Comparison statements are used to evaluate the quality or the
+					difference between variables or values.</p>
+					<img src="comparisonstatements.png" alt="Comparison Statements">
+					<img src="comparisonstatements2.png" alt="Comparison Statements">
+				</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<div class="card">
+				<div class="card-front">
+					<div class="card-text">
+						<h3>Logical Operators</h3>
+					</div>
+				</div>
+				<div class="card-back">
+					<p>Logical operators are used to determine the logic between
+					expressions, variables, or values. It is usually used by two or more
+					expressions to satisfy the needed conditions.</p>
+					<img src="logicaloperators.png" alt="Logical Operators">
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="paksa_block">
+		<div class="block">
+			<div class="block_text">
+			<p>JS also has its own conditional operator that automatically assigns
+			a value depending on the result of the condition.</p>
+			<p>Syntax for conditional statements: variablename=(condition)?value1:value2</p>
+			<p>Example using conditional statement: myFavorite=(color=="pink")?"Terrific":"Change color";</p>
+			<p>If `color == "pink"`, `myFavorite` becomes "Terrific"; otherwise, it is "Change color."</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>JS also has its own conditional operator that automatically assigns
+			a value depending on the result of the condition.</p>
+			<p>Syntax for conditional statements: variablename=(condition)?value1:value2</p>
+			<p>Example using conditional statement: myFavorite=(color=="pink")?"Terrific":"Change color";</p>
+			<p>If `color == "pink"`, `myFavorite` becomes "Terrific"; otherwise, it is "Change color."</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>if: Checks if a condition is true.</p>
+			<p>if-else: Performs an action if true, otherwise another action.</p>
+			<p>if-else if.else: Checks multiple conditions for execution.</p>
+			<p>switch: Selects one of many code blocks to run.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>The `if` block executes the code within braces if the specified condition is true. If the code to be executed 
+			consists of only a single line, you can omit the braces for simplicity, but for multiple statements, braces are 
+			necessary to group the code together.</p>
+			</div>
+		</div>
+		<div class="block">
+			<div class="block_text">
+			<p>else if: Executes code if prior conditions are false.</p>
+			<p>else: Executes if no conditions are met (the last resort).</p>
+			<p>switch: Conditional statement like if, but considers a single variable. Use break to prevent fall-through.</p>
+			</div>
+		</div>
+	</div>
+	
+	<hr>
+	
+	<div class="paksaheading"><a href="Fourth Quarter.html">⋆˙⟡ Click me to return to the main page! ⋆.𐙚 ̊</div>
+	
+	<hr>
+  
+</body>
+</html>
