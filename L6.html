@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dimension and Visibility Example</title>
+    <style type="text/css">
+        #myDiv {
+            width: 200px;
+            height: 100px;
+            background-color: #f0f0f0;
+            border: 1px solid black;
+        }
+
+        span {
+            visibility: hidden; /* Initially hide the span */
+        }
+
+        #showSpan:hover + span {
+            visibility: visible; /* Show span on hover */
+        }
+    </style>
+</head>
+<body>
+
+    <div id="myDiv">
+        This is a div with a fixed width and height.
+        <p>Hover over <a href="#" id="showSpan">this link</a> to reveal the hidden text:
+        <span> This text was hidden!</span></p>
+    </div>
+
+</body>
+</html>

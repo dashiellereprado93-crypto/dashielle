@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Selectors Example</title>
+    <style type="text/css">
+        /* Element Selector */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        /* Class Selector */
+        .highlight {
+            color: white;
+            background-color: green;
+            padding: 5px;
+        }
+
+        /* ID Selector */
+        #main-heading {
+            color: navy;
+            text-align: center;
+        }
+
+        /* Group Selector */
+        h1, h2 {
+            margin-bottom: 10px;
+        }
+
+        /* Universal Selector */
+        * {
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="main-heading">CSS Selectors</h1>
+    <h2>Element Selector</h2>
+    <p>This paragraph uses the element selector.</p>
+
+    <h2>Class Selector</h2>
+    <div class="highlight">This div uses the class selector.</div>
+
+    <h2>Attribute Selector</h2>
+    <input type="text" placeholder="Enter text here">
+
+</body>
+</html>
