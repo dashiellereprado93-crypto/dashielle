@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Homepage</title>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style_1.css">
+</head>
+
+<body>
+
+	<div class="particles"></div>
+
+	<div class="main-container">
+
+		<div class="main-card">
+
+			<h1 class="title">⋆˚࿔ Welcome to Dash's Website 𝜗𝜚˚⋆</h1>
+
+			<h2>Dashiellle Marie D. Reprado | 9 - Fairness</h2>
+
+			<div class="buttons">
+
+				<a href="My Personal Space.html" class="btn" target="_blank">My Personal Space</a>
+
+				<a href="ap.html" class="btn" target="_blank">AP</a>
+
+			</div>
+
+			<br>
+
+			<div class="buttons">
+
+				<a href="Homepage 1.html" class="btn" target="_blank">1st and Second Quarter</a>
+
+				<a href="Third Quarter.html" class="btn" target="_blank">3rd Quarter</a>
+
+				<a href="Fourth Quarter.html" class="btn" target="_blank">4th Quarter</a>
+
+			</div>
+
+		</div>
+
+		<div class="profile-container">
+
+			<img src="profile.jpg" class="profile-img">
+
+		</div>
+
+	</div>
+
+<script src="script_1.js"></script>
+
+</body>
+
+</html>
