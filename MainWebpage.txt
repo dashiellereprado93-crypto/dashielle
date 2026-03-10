@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="mainwebpagestyle.css">
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar">
+        <h1 class="logo">Dash Portfolio</h1>
+
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<section class="hero">
+
+    <div class="hero-text">
+        <h2>Hello, I'm Dash 👋</h2>
+        <p>A student learning web development and design.</p>
+        <a href="projects.html" class="btn">View My Work</a>
+    </div>
+
+</section>
+
+
+<section class="home-about">
+
+    <h2>About Me</h2>
+    <p>
+        I create websites, learn programming, and explore design.
+        This portfolio showcases my projects and skills.
+    </p>
+
+</section>
+
+
+<footer>
+    <p>© 2026 Dash Portfolio</p>
+</footer>
+
+</body>
+</html>
