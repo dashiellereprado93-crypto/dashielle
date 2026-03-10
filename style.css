@@ -1,0 +1,60 @@
+/* General body styles */
+body {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+	background-image: url('websitebackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-color: #f0f0f0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Website container styles */
+.website-container {
+    background-color: #e7dfff;
+    padding: 30px;
+    border-radius: 15px;
+    border: 7px solid #9273c2;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+}
+
+/* Heading styles */
+h1 {
+    font-size: 2.1em;
+    margin-bottom: 15px;
+}
+
+/* Name styles */
+.name {
+    font-size: 1.4em;
+    margin-top: 15px;
+    color: #9273c2;
+	font-weight: bold;
+}
+
+/* Links styles */
+.links {
+    margin-top: 30px;
+	color: #9273c2;
+}
+
+.links a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+.links a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
