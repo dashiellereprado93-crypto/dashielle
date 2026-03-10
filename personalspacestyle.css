@@ -1,0 +1,212 @@
+/* General body styles */
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url('websitebackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #f0f0f0;
+}
+
+/* Heading styles */
+h1 {
+    font-size: 2.1em;
+    margin-bottom: 15px;
+}
+
+hr {
+    border-top: 5px solid #9273c2;
+    border-radius: 5px;
+}
+
+.personal-details {
+    text-align: center;
+    color: #3d285d;
+    background-image: url('paragraphbackground.png');
+	border: 2px solid #654989;
+}
+
+.about-me {
+    text-align: left;
+    color: #3d285d;
+}
+
+.profile-picture-container {  /* Style the container */
+    display: flex;
+    justify-content: center;
+}
+
+.about-me .profile-picture {  /* Style the image */
+	width: 210px;
+	height: auto;
+	border: 5px solid #654989;
+	border-radius: 5px;
+}
+
+.about-me-text {
+    text-align: center;
+	padding: 1px;
+	background-color: #e7dfff;
+	border: 3px dashed #654989;
+	border-radius: 10px;
+	color: #3d285d;
+}
+
+.cof {
+    text-align: center;
+	background-image: url('paragraphbackground.png');
+	border: 2px solid #654989;
+}
+
+.friends-text {
+	color: #3d285d;
+    text-align: justify;
+	background-color: #e7dfff;
+	border: 3px dashed #654989;
+	padding: 2px;
+	border-radius: 10px;
+}
+
+.skinnies {
+    background-image: url('paragraphbackground.png');
+	background-size: cover;
+	border: 5px solid #654989;
+    border-radius: 10px; /* Rounded corners */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Vertically align items */
+    width: 600px; /* Adjust as needed */
+    margin: 20px auto; /* Center the container */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    overflow: hidden; /* Prevent content from overflowing rounded corners */
+	transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.skinnies:hover {
+    transform: scale(1.1); /* Scale the block on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhance the shadow */
+}
+
+.skinnies img {
+    width: 250px; /* Adjust as needed */
+    height: auto;
+    border-radius: 10px 10px 10px 10px; /* Round only the left corners */
+	padding-left: 6px;
+    display: block; /* Remove extra space below the image */
+}
+
+.skinnies-description {
+    padding: 20px;
+}
+
+.skinnies-description h3 {
+    margin-top: 0;
+    color: #333; /* Darker heading color */
+}
+
+.skinnies-description p {
+    margin-bottom: 5px;
+    color: #555; /* Slightly darker text color */
+}
+
+.bravability {
+    background-image: url('paragraphbackground.png');
+	background-size: cover;
+	border: 5px solid #654989;
+    border-radius: 10px; /* Rounded corners */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Vertically align items */
+    width: 600px; /* Adjust as needed */
+    margin: 20px auto; /* Center the container */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    overflow: hidden; /* Prevent content from overflowing rounded corners 
+	transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.bravability:hover {
+    transform: scale(1.1); /* Scale the block on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhance the shadow */
+}
+
+.bravability img {
+    width: 250px; /* Adjust as needed */
+    height: auto;
+    border-radius: 10px 10px 10px 10px; /* Round only the left corners */
+	padding-left: 6px;
+    display: block; /* Remove extra space below the image */
+}
+
+.bravabilities-description {
+    padding: 20px;
+}
+
+.bravabilities-description h3 {
+    margin-top: 0;
+    color: #333; /* Darker heading color */
+}
+
+.bravabilities-description p {
+    margin-bottom: 5px;
+    color: #555; /* Slightly darker text color */
+}
+
+.fam {
+    text-align: center;
+	background-image: url('paragraphbackground.png');
+	border: 2px solid #654989;
+}
+
+.myfamily-text {
+	color: #3d285d;
+    text-align: justify;
+	background-color: #e7dfff;
+	border: 3px dashed #654989;
+	padding: 2px;
+	border-radius: 10px;
+}
+
+.family {
+    background-image: url('paragraphbackground.png');
+	background-size: cover;
+	border: 5px solid #654989;
+    border-radius: 10px; /* Rounded corners */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Vertically align items */
+    width: 600px; /* Adjust as needed */
+    margin: 20px auto; /* Center the container */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    overflow: hidden; /* Prevent content from overflowing rounded corners */
+	transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.family:hover {
+    transform: scale(1.1); /* Scale the block on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhance the shadow */
+}
+
+.family img {
+    width: 250px; /* Adjust as needed */
+    height: auto;
+    border-radius: 10px 10px 10px 10px; /* Round only the left corners */
+	padding-left: 6px;
+    display: block; /* Remove extra space below the image */
+}
+
+.family-description {
+    padding: 20px;
+}
+
+.family-description h3 {
+    margin-top: 0;
+    color: #333; /* Darker heading color */
+}
+
+.family-description p {
+    margin-bottom: 5px;
+    color: #555; /* Slightly darker text color */
+}
+
+.fam {
+    text-align: center;
+	background-image: url('paragraphbackground.png');
+	border: 2px solid #654989;
+}
