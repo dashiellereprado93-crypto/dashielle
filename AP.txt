@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TLE/ICT</title>
+    <link rel="stylesheet" href="personalspacestyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1 style="color:#654989;font-weight:bold;text-align:center;"> ⋆˚࿔ Araling Panlipunan 𝜗𝜚˚⋆ </h1>
+	<h3 style="color:#654989;font-weight:bold;text-align:center;"> ⋆˚࿔ Yunit II. Maykroekonomiks 𝜗𝜚˚⋆ </h1>
+    <hr>
+    <div class="personal-details">⋆˙⟡ Outputs per Lesson ⋆.𐙚 ̊</div>
+	<hr>
+    <div class="about-me">
+        <div class="profile-picture-container">  <!-- ADD THIS CONTAINER -->
+            <img src="myself.jpg" alt="Profile Picture" class="profile-picture">
+        </div>
+		<br>
+        <div class="about-me-text">
+            <p><b>Name: Dashielle Marie D. Reprado (Dash)</b></p>
+            <p><b>Age: 15</b></p>
+            <p><b>Birthday: September 3, 2010</b></p>
+            <p><b>Favorites: the color purple, dogs, geography, debate, journalism</b></p>
+        </div>
+    </div>
+    <hr>
+    <br>
+    <hr>
+    <div class="cof">Circle of Friends</div>
+	<hr>
+    <div class="friends">
+		<div class="friends-text">
+			<p></b>My friends are: My friends are: Emannoel Raquedan, Nina Nunez, Martin Torrijos, Jayzel Macawili, Laurenz Amadure, Cyruz Bacani, Yeuffa Gata, Chloe Chavez, Nicole Kierulf, Joy Pacot, Mark Calamba, Rolly Mirasol Jr., Ayeka Yamagishi, Andrew Cervantes, Kiel Reyes, Jadee Brinas, Shanaiah Yumul, Chloie Obsiana, Emmanuel Subaria, Grace Condino, Benj Antolin, Taranee Guevarra, Riley Dablo, Keisha Abello, and Bianca Ling.</b></p>
+			<p></b>June 3-4, 2024: My friends and I stayed overnight at a resthouse in Alfonso, Cavite to celebrate Nicole Kierulf’s birthday, which was on May 28. We ate, swam, watched movies, played hide and seek, and the Mafia game, took photos, made silly videos, and overall had a fun time. It was and continues to be one of the best memories I have with my friends as most of us were able to go.</b></p>
+			<p></b>September 6, 2024: I invited my friends and some of my classmates to my house to celebrate my birthday. I remember it being a rainy week but the mere presence of my friends and family coming together to celebrate with me made the gloomy day a bit brighter.</b></p>
+			<p></b>September 12, 2025: I once again invited my friends to my birthday party but this time it was at Wingzilla at Torre Sur. It was just after the closing of our intrams so it felt like another reason to celebrate, we ate a lot and catched up. My friends who were all from different sections got a chance to get to know eachother and become more closer.</b></p>
+		</div>
+		<div class="skinnies">
+			<img src="friends1.jpg" alt="Skinny 12">
+			<div class="skinnies-description">
+				<h3>Skinny 12</h3>
+					<p>Skinny 12 was one of my first friend groups here in LPSci. We initially grew close because we were all classmates in Grade 7 (Bravery).</p>
+					<p>We have all been through many ups and downs but our friendship and bond is something I would never ever take for granted.</p>
+					<p>Skinny 12: Emannoel, Martin, Jayzel, Laurenz, Yeuffa, Chloe, Nicole, Joy, Mark, Rolly, Ayeka</p>
+			</div>
+		</div>
+		<div class="bravability">
+			<img src="friends2.jpg" alt="BravAbility">
+			<div class="bravabilities-description">
+				<h3>BravAbility</h3>
+					<p>BravAbility is the friend group of 7-Bravery and 7-Accountability. We all got closer through being classmates in Grade 8 (Connection).</p>
+					<p>We spend most of our school days with each other chatting and having fun. When going home, we all prefer commuting together.</p>
+					<p>BravAbility: Emman, Aya, Grace, Chloie, Jadee, Taranee, Keisha, Jayzel, Martin, Riley, Kiel</p>
+			</div>
+		</div>
+</div>
+	</div>
+	<hr>
+	<br>
+	<hr>
+	<div class="fam">My Family</div>
+	<hr>
+	<div class="myfamily">
+		<div class="myfamily-text">
+			<p>Dad:</p>
+			<p>Mom:</p>
+			<p>Eldest Ate:</p>
+			<p>Middle Ate:</p>
+		</div>
+		<div class="family">
+			<img src="family1.jpg" alt="My Family">
+			<div class="family-description">
+				<h3>My Family</h3>
+					<p>Fambam</p>
+			</div>
+		</div>
+	</div>
+	<hr>
+	<br>
+</body>
+</html>
